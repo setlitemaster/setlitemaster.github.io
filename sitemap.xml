@@ -2,47 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://setlitemaster.github.io/tags/get-started/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/getting-started/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/tags/guide/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/pc-soft/</loc>
+    <lastmod>2021-12-25T10:05:49-08:00</lastmod>
   </url><url>
     <loc>https://setlitemaster.github.io/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-25T10:05:49-08:00</lastmod>
   </url><url>
-    <loc>https://setlitemaster.github.io/tags/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/pc-soft/vlc-player-exe/</loc>
+    <lastmod>2021-12-25T10:05:49-08:00</lastmod>
   </url><url>
-    <loc>https://setlitemaster.github.io/tags/configuration/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/apk-soft/</loc>
+    <lastmod>2021-12-25T10:05:09-08:00</lastmod>
   </url><url>
-    <loc>https://setlitemaster.github.io/tags/customize/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/apk-soft/mx-player-mod-apk/</loc>
+    <lastmod>2021-12-25T10:05:09-08:00</lastmod>
   </url><url>
-    <loc>https://setlitemaster.github.io/post/hugo-built-in-global-configuration/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/reciever-soft/</loc>
+    <lastmod>2021-12-25T10:04:38-08:00</lastmod>
   </url><url>
-    <loc>https://setlitemaster.github.io/tags/settings/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/theme-custom-global-configuration/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/page-configuration/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/example-config-yaml/</loc>
-    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://setlitemaster.github.io/post/additional-info/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <loc>https://setlitemaster.github.io/reciever-soft/t-10-pro/</loc>
+    <lastmod>2021-12-25T10:04:38-08:00</lastmod>
   </url><url>
     <loc>https://setlitemaster.github.io/software/additional-info/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
@@ -51,6 +30,9 @@
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://setlitemaster.github.io/software/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://setlitemaster.github.io/tags/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://setlitemaster.github.io/software/recievers/gx6605-software/</loc>
